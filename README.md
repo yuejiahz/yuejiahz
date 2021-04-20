@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yuejiahz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning html, css and javascript
+- 👋 Hi, I’m @yuejiahz.
+- 🌱 I’m currently learning html, css and javascript.
+- 👀 I’m interested in a junior software developer position.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: yuejialow@gmail.com
 
